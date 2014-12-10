@@ -11,7 +11,7 @@ Version
 Copyright
 ---------
 
-``` Copyright (c) 2014 Agnel Waghela
+```Copyright (c) 2014 Agnel Waghela
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
